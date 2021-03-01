@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import HomePage from './HomePage.component'
+import HomePage from './pages/Homepages/HomePage.component.jsx'
 function App() {
     return (
         <div className="App">
